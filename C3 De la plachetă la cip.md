@@ -3,7 +3,7 @@
 După obținerea plachetei de siliciu perfect curată și plană, urmează una dintre cele mai complexe secvențe tehnologice din lume: transformarea unui disc de siliciu într-un cip logic conținând miliarde de tranzistoare.  
 Procesul cuprinde etape succesive de **depunere**, **litografie**, **etching**, **dopare**, **metalizare** și **tăiere**.
 
-![example image](Images/placheta siliciu.png)
+![example image](Images/placheta_siliciu.png)
 ---
 
 ## 3.1 Depunerea straturilor (Film Deposition)
@@ -27,7 +27,6 @@ Scopul este de a construi straturi suprapuse care definesc viitoarele componente
   Se aplică strat cu strat, controlat la nivel de un monostrat atomic.  
   Asigură grosimi uniforme, esențiale pentru tehnologiile sub-10 nm.
 
----
 
 ## 3.2 Litografia – Transferul modelului circuitului
 
@@ -41,7 +40,6 @@ Apoi, lumina (UV, DUV sau EUV) este folosită pentru a expune regiuni specifice 
 După expunere, fotorezistul este **dezvoltat**: zonele expuse devin solubile și sunt îndepărtate.  
 Rezultatul: un **model fizic** pe suprafața waferului.
 
----
 
 ## 3.3 Etching (Gravarea selectivă)
 
@@ -59,7 +57,6 @@ R = \frac{d}{t}
 unde *R* este rata de gravare, *d* grosimea materialului eliminat și *t* timpul procesului.  
 Rata tipică: **1–10 nm/s**.
 
----
 
 ## 3.4 Doparea (Implantarea ionică)
 
@@ -72,7 +69,6 @@ E_k = \frac{1}{2}mv^2
 
 Ionii pătrund în rețeaua cristalină și sunt ulterior **activați termic (annealing)**, pentru a se integra în structura siliciului.
 
----
 
 ## 3.5 Metalizarea și interconectarea
 
@@ -85,7 +81,6 @@ Procese moderne:
 - Low-k Dielectrics  
 - CMP (Chemical Mechanical Polishing)
 
----
 
 ## 3.6 Tăierea (Dicing) și testarea cipurilor
 
@@ -100,10 +95,10 @@ Y = e^{-AD_0}
 
 unde *A* este aria cipului și *D₀* densitatea defectelor.
 
-![example image](Images/placheta cipuri.png)
+![example image](Images/placheta_cipuri.png)
 
-![example image](Images/cip de pe placheta.png)
----
+![example image](Images/cip_de_pe_placheta.png)
+
 
 ## 3.7 Detalii interesante
 

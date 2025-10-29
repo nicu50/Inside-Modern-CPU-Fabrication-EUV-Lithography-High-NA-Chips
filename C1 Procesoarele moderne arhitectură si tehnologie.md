@@ -86,6 +86,7 @@ Pentru a înțelege mai bine structura internă a unui procesor Ryzen 7000, iat�
 Această imagine evidențiază cele trei cipuri principale: două CCD-uri și un IOD, toate integrate pe aceeași plachetă de siliciu.  
 
 ![example image](Images/ryzen7000blocuri.png)
+
 Această diagramă ilustrează cum sunt organizate componentele interne și cum interacționează între ele.
 
 ### Linkuri utile

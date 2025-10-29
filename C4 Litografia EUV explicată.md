@@ -4,7 +4,7 @@ Litografia **EUV (Extreme Ultraviolet)** este tehnologia centrală care permite 
 Ea utilizează lumină cu o lungime de undă de **13,5 nm**, situată între domeniul ultravioletului clasic și razele X.  
 Această scurtare a lungimii de undă permite imprimarea unor detalii de ordinul câtorva nanometri, imposibil de realizat cu metodele optice clasice.
 ![example image](Images/spectru.png)
----
+
 
 ## 4.1 Energia fotonului EUV
 
@@ -27,7 +27,6 @@ E ≈ 1,47×10⁻¹⁸ J ≈ 9,16 eV
 
 Această energie este suficientă pentru a excita electronii din stratul rezist fotosensibil.
 
----
 
 ## 4.2 Componentele sistemului EUV
 
@@ -38,8 +37,8 @@ Un sistem complet de litografie EUV (ex. **ASML Twinscan NXE**) include:
 - **Masca de litografie** – conține modelul circuitului  
 - **Optica de proiecție** – reduce imaginea măștii (~4×)  
 - **Wafer-ul** – substratul de siliciu
-![example image](Images/Bragg mirrors.png)
----
+![example image](Images/Bragg_mirrors.png)
+
 
 ## 4.3 Fenomene fizice în procesul EUV
 
@@ -48,7 +47,6 @@ Jet de staniu lichid (~30 μm) este excitat de un laser CO₂ pulsator → plasm
 Ionii Sn⁸⁺–Sn¹⁴⁺ emit la ~13,5 nm.  
 Doar ≈ 2 % din energia laserului devine lumină EUV utilă.
 
----
 
 ### 4.3.2 Reflexia luminii EUV – oglinzile Bragg
 Lumina EUV nu poate fi focalizată cu lentile.  
@@ -62,7 +60,6 @@ Cond. Bragg:
 
 Sistemul folosește max. 6 oglinzi și funcționează în vid complet.
 
----
 
 ### 4.3.3 Interacția cu rezistul fotosensibil
 Fotonii EUV eliberează electroni secundari → reacții chimice → modifică solubilitatea locală.  

@@ -25,7 +25,7 @@ Siliciul pur obținut este transformat într-un **monocristal cilindric** folosi
 
 Forma cilindrică apare natural datorită rotației și tensiunii superficiale a siliciului topit.  
 Aceasta permite, mai târziu, **tăierea waferelor rotunde** fără pierderi semnificative și cu o distribuție uniformă a proprietăților cristaline.
-![example image](Images/cilindru siliciu.png)
+![example image](Images/cilindru_siliciu.png)
 ---
 
 ## 2.3 Tratare termică și chimică a plachetei
@@ -46,12 +46,6 @@ După ce suprafața este pregătită, se aplică un **strat subțire de photores
 Grosimea și compoziția stratului de rezist sunt adaptate în funcție de tehnologia folosită și de dimensiunea tranzistorului.
 
 În timpul expunerii la lumină UV, DUV sau EUV, rezistul va defini regiuni specifice care vor fi ulterior gravate sau dopate, creând structurile necesare pentru tranzistoare și interconexiuni.
-
-<p align="center">
-  <img src="./images/wafer_preparation.jpg" width="600">
-  <br>
-  <em>Figura 2.3.1 – Etapele de pregătire a waferului pentru litografie</em>
-</p>
 
 Acești pași pregătesc waferul pentru etapele următoare, cum ar fi **depunerea straturilor**, **doparea** și **metalizarea**, asigurând că suprafața este uniformă, curată și optimă pentru fabricarea tranzistoarelor.
 
