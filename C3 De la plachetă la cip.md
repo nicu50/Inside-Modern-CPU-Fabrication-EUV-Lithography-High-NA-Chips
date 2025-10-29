@@ -2,6 +2,7 @@
 
 După obținerea plachetei de siliciu perfect curată și plană, urmează una dintre cele mai complexe secvențe tehnologice din lume: transformarea unui disc de siliciu într-un cip logic conținând miliarde de tranzistoare.  
 Procesul cuprinde etape succesive de **depunere**, **litografie**, **etching**, **dopare**, **metalizare** și **tăiere**.
+
 ![example image](Images/placheta siliciu.png)
 ---
 
@@ -98,7 +99,9 @@ Y = e^{-AD_0}
 \]
 
 unde *A* este aria cipului și *D₀* densitatea defectelor.
+
 ![example image](Images/placheta cipuri.png)
+
 ![example image](Images/cip de pe placheta.png)
 ---
 
