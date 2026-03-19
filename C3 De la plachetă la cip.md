@@ -61,9 +61,7 @@ Rata tipică: **1–10 nm/s**.
 Pentru a controla conductivitatea electrică a siliciului, se introduc **atomi dopanți** (bor pentru p-type, fosfor sau arsen pentru n-type).  
 Aceasta se face prin **implantare ionică**, accelerând ionii în câmpuri de ordinul sutelor de keV:
 
-\[
-E_k = \frac{1}{2}mv^2
-\]
+![E_k](https://latex.codecogs.com/png.image?E_k=\frac{1}{2}mv^2)
 
 Ionii pătrund în rețeaua cristalină și sunt ulterior **activați termic (annealing)**, pentru a se integra în structura siliciului.
 
