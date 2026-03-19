@@ -10,7 +10,8 @@ Această scurtare a lungimii de undă permite imprimarea unor detalii de ordinul
 
 Formula energiei unui foton EUV:
 
-![formula](https://latex.codecogs.com/png.image?E%3D%5Cfrac%7Bh%5Ccdot%20c%7D%7B%5Clambda%7D&bg=white&dpi=150)
+
+E = h * c / λ
 
 unde  
 - h = 6,626×10⁻³⁴ J·s  
@@ -54,7 +55,7 @@ Reflectivitate ≈ 70 %.
 
 Cond. Bragg:  
 
-![Bragg](https://latex.codecogs.com/svg.image?2d%5Csin(%5Ctheta)%3Dn%5Clambda)
+2 * d * sin(θ) = n * λ
 
 Sistemul folosește max. 6 oglinzi și funcționează în vid complet.
 
