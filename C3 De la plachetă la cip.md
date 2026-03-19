@@ -50,7 +50,7 @@ Procesul de etching elimină materialul expus, transferând modelul din fotorezi
 
 Formula de bază pentru viteza de gravare:
 
-R = d / t
+$R = d / t$
 
 unde *R* este rata de gravare, *d* grosimea materialului eliminat și *t* timpul procesului.  
 Rata tipică: **1–10 nm/s**.
@@ -100,5 +100,6 @@ unde *A* este aria cipului și *D₀* densitatea defectelor.
 - **O linie completă de producție**: peste **20 miliarde USD**  
 - **Un scanner EUV**: ≈ **200 milioane USD**  
 - **Grosimea totală** a straturilor depuse: > **10 µm**, fiecare strat sub **10 nm**
+
 
 
