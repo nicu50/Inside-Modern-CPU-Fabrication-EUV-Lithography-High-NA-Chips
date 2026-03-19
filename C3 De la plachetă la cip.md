@@ -50,9 +50,7 @@ Procesul de etching elimină materialul expus, transferând modelul din fotorezi
 
 Formula de bază pentru viteza de gravare:
 
-\[
-R = \frac{d}{t}
-\]
+**R = d / t**
 
 unde *R* este rata de gravare, *d* grosimea materialului eliminat și *t* timpul procesului.  
 Rata tipică: **1–10 nm/s**.
