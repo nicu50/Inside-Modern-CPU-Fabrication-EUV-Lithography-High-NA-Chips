@@ -47,14 +47,14 @@ Doar ≈ 2 % din energia laserului devine lumină EUV utilă.
 
 
 ### 4.3.2 Reflexia luminii EUV – oglinzile Bragg
+
 Lumina EUV nu poate fi focalizată cu lentile.  
 Sunt folosite **oglinzi multistrat Mo/Si** (~7 nm fiecare pereche, până la 50 straturi).  
 Reflectivitate ≈ 70 %.
 
 Cond. Bragg:  
-\[
-2d \sin(θ) = nλ
-\]
+
+![Bragg](https://latex.codecogs.com/svg.image?2d%5Csin(%5Ctheta)%3Dn%5Clambda)
 
 Sistemul folosește max. 6 oglinzi și funcționează în vid complet.
 
