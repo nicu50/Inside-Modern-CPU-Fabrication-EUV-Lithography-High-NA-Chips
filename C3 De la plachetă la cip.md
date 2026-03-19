@@ -85,9 +85,7 @@ Apoi este **tăiat (dicing)** cu un disc diamantat în mii de cipuri individuale
 
 Randamentul (*yield*):
 
-\[
-Y = e^{-AD_0}
-\]
+![Y = e^{-AD0}](https://latex.codecogs.com/png.image?Y=e^{-AD_0})
 
 unde *A* este aria cipului și *D₀* densitatea defectelor.
 
