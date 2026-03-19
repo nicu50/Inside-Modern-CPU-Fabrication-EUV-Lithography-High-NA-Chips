@@ -10,14 +10,12 @@ Această scurtare a lungimii de undă permite imprimarea unor detalii de ordinul
 
 Formula energiei unui foton EUV:
 
-\[
-E = \frac{h \cdot c}{\lambda}
-\]
+![E = hc/lambda](https://latex.codecogs.com/png.image?\dpi{150}E=\frac{h\cdot c}{\lambda})
 
 unde  
-- `h = 6,626×10⁻³⁴ J·s`  
-- `c = 3,00×10⁸ m/s`  
-- `λ = 13,5×10⁻⁹ m`
+- h = 6,626×10⁻³⁴ J·s  
+- c = 3,00×10⁸ m/s  
+- λ = 13,5×10⁻⁹ m  
 
 Rezultatul:
 
