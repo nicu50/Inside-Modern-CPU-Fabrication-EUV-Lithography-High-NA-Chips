@@ -50,7 +50,7 @@ Procesul de etching elimină materialul expus, transferând modelul din fotorezi
 
 Formula de bază pentru viteza de gravare:
 
-![R = d/t](https://latex.codecogs.com/png.image?\dpi%7B150%7D%20R%3D%5Cfrac%7Bd%7D%7Bt%7D)
+R = d / t
 
 unde *R* este rata de gravare, *d* grosimea materialului eliminat și *t* timpul procesului.  
 Rata tipică: **1–10 nm/s**.
@@ -61,7 +61,7 @@ Rata tipică: **1–10 nm/s**.
 Pentru a controla conductivitatea electrică a siliciului, se introduc **atomi dopanți** (bor pentru p-type, fosfor sau arsen pentru n-type).  
 Aceasta se face prin **implantare ionică**, accelerând ionii în câmpuri de ordinul sutelor de keV:
 
-![E_k](https://latex.codecogs.com/png.image?E_k=\frac{1}{2}mv^2)
+E_k = (1/2) * m * v^2
 
 Ionii pătrund în rețeaua cristalină și sunt ulterior **activați termic (annealing)**, pentru a se integra în structura siliciului.
 
